@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "ef876dfb-220c-4492-a50a-29c8309fa7cd",
+      "name": "aSF",
+      "email": "hellosiri6896@gmail.com"
+    },
+    {
+      "id": "70d1cc9e-a524-459b-bc5f-aca5196551bc",
+      "name": "Siri",
+      "email": "siri@gmail.com"
+    },
+    {
+      "id": "410b7ee4-0b7d-4128-8725-9ddf2c0a67dc",
+      "name": "Abcd",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "df7d259d-d4c3-4e8c-8154-214e092bb76a",
+      "name": "test1",
+      "email": "test1@gmail.com"
+    },
+    {
+      "id": "32e66b19-3ddd-4f40-b8f3-fa2b1030dba6",
+      "name": "newContact",
+      "email": "new@gmail.com"
+    }
+  ]
+}
